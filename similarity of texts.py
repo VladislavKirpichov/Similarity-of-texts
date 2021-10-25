@@ -1,6 +1,5 @@
 import re
 
-import numpy
 import numpy as np
 from scipy import spatial as sp
 
